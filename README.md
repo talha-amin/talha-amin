@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/talhaaminn_" target="blank"><img src="https://img.shields.io/twitter/follow/talhaaminn_?logo=twitter&style=for-the-badge" alt="talhaaminn_" /></a> </p>
 
-- 🔭 I’m currently working on **Component Part Price** at <a href="https://www.cubix.co/" target="blank"><img src="https://www.cubix.co/themes/responsiv-clean/assets/img/cubix-logo.svg" alt="cubix"  width="40" height="40" /></a> 
+- 🔭 I’m currently working on **Component Part Price** at <a href="https://www.cubix.co/" target="blank"><img src="https://www.cubix.co/themes/responsiv-clean/assets/img/cubix-logo.svg" alt="cubix"/></a> 
 
 - 🌱 I’m currently learning **React.js** from <a href="https://www.udemy.com/" target="blank"><img src="https://seeklogo.com/images/U/udemy-wordmark-logo-5BA74BCA61-seeklogo.com.png" alt="udemy" width="40" height="40" /></a> 
 
