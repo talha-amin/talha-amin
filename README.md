@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Component Part Price** at <a href="https://www.cubix.co/" target="blank"><img src="https://www.cubix.co/themes/responsiv-clean/assets/img/cubix-logo.svg" alt="cubix" /></a> 
 
-- 🌱 I’m currently learning **React.js** 
+- 🌱 I’m currently learning **React.js** & **UnrealEngine** 
 
 - 💬 Ask me about **Solidity & Blockchain**
 
