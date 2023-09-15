@@ -27,8 +27,7 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-[![An image of @talhaamin's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/talhaamin)](https://holopin.io/@talhaamin)
-
+<a href="" target="_blank" rel="noreferrer"> <img src="https://ibb.co/rM0PYw1" alt="BootCampCertificate" width="100" height="100"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-amin&show_icons=true&locale=en&layout=compact" alt="talha-amin" /></p>
 
