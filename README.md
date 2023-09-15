@@ -27,8 +27,7 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeifjrl3odsas4m6aa6lfimtmnuko2r73zhc3nf5uupbvcurob7s3na.ipfs.nftstorage.link/" alt="EncodeBootCampCertificate" width="200" height="200"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeidunnvjthmz3i5g4ssbmga5nlhc5ptu3akth34c4yt6i4jbju3cae.ipfs.nftstorage.link/" alt="SolanaBootCampCertificate" width="200" height="200"/> </a>
-
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeifjrl3odsas4m6aa6lfimtmnuko2r73zhc3nf5uupbvcurob7s3na.ipfs.nftstorage.link/" alt="EncodeBootCampCertificate" width="200" height="200"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeidunnvjthmz3i5g4ssbmga5nlhc5ptu3akth34c4yt6i4jbju3cae.ipfs.nftstorage.link/" alt="SolanaBootCampCertificate" width="200" height="200"/> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-amin&show_icons=true&locale=en&layout=compact" alt="talha-amin" /></p>
