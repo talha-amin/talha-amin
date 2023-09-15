@@ -27,7 +27,7 @@
 
 <h3 align="left">Rewards & Certifications: </h3>
 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeifjrl3odsas4m6aa6lfimtmnuko2r73zhc3nf5uupbvcurob7s3na.ipfs.nftstorage.link/" alt="BootCampCertificate" width="100" height="100"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://bafybeifjrl3odsas4m6aa6lfimtmnuko2r73zhc3nf5uupbvcurob7s3na.ipfs.nftstorage.link/" alt="BootCampCertificate" width="200" height="200"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha-amin&show_icons=true&locale=en&layout=compact" alt="talha-amin" /></p>
 
