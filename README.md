@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Component Part Price** at <a href="https://www.cubix.co/" target="blank"><img src="https://www.cubix.co/themes/responsiv-clean/assets/img/cubix-logo.svg" alt="cubix" /></a> 
 
-- 🌱 I’m currently learning **React.js** & **UnrealEngine** 
+- 🌱 I’m currently learning **React.js** & **Yul-Assembly Language in Soldity** 
 
-- 💬 Ask me about **Solidity & Blockchain**
+- 💬 Ask me about **Solidity, Blockchain & React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
