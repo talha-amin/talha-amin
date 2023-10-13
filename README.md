@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Amin</h1>
-<h3 align="center">A passionate FullStack Blockchain Developer</h3>
+<h3 align="center">Aspiring to become a  FullStack Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-amin&label=Profile%20views&color=0e75b6&style=flat" alt="talha-amin" /> </p>
 
