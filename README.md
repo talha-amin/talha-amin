@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/talhaaminn_" target="blank"><img src="https://img.shields.io/twitter/follow/talhaaminn_?logo=twitter&style=for-the-badge" alt="talhaaminn_" /></a> </p>
 
-- 🔭 I’m currently working on **Component Part Price** at <a href="https://www.cubix.co/" target="blank"><img src="https://www.cubix.co/themes/responsiv-clean/assets/img/cubix-logo.svg" alt="cubix" /></a> 
+- 🔭 I’m currently working on **iSire** which is a Saas platform incorporating AI Speech-to-Speech and Text-to-Speech Recognition for content creators and distribition of royalties via soulbound ERC721 Tokens. 
 
-- 🌱 I’m currently learning **React.js** & **Yul-Assembly Language in Soldity** 
+- 🌱 I’m currently enrolled in  **Expert Solidity Bootcamp 2023**
 
 - 💬 Ask me about **Solidity, Blockchain & React**
 
