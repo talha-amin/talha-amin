@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha Amin</h1>
-<h3 align="center">Aspiring to become a  FullStack Blockchain Developer</h3>
+<h3 align="center">FullStack Blockchain Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-amin&label=Profile%20views&color=0e75b6&style=flat" alt="talha-amin" /> </p>
 
@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/talhaaminn_" target="blank"><img src="https://img.shields.io/twitter/follow/talhaaminn_?logo=twitter&style=for-the-badge" alt="talhaaminn_" /></a> </p>
 
-- 🔭 I’m currently working on **iSire** which is a Saas platform incorporating AI Speech-to-Speech and Text-to-Speech Recognition for content creators and distribition of royalties via soulbound ERC721 Tokens. 
+- 🌱 I’m currently a **Web3 Business Development Executive** at Decrypted Labs.
 
-- 🌱 I’m currently enrolled in  **Expert Solidity Bootcamp 2023**
-
-- 💬 Ask me about **Solidity, Blockchain & React**
+- 💬 Ask me about **Web3 Development & Web3 Sales**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
