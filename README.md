@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/talhaaminn_" target="blank"><img src="https://img.shields.io/twitter/follow/talhaaminn_?logo=twitter&style=for-the-badge" alt="talhaaminn_" /></a> </p>
 
-- 🌱 I’m currently a **Web3/Blockchain Developer** at Decrypted Labs.
+- 🌱 I’m currently a **Web3 BD & Dev** at Decrypted Labs.
 
 - 💬 Ask me about **Web3 Development & Blockchain Architecture**
 
